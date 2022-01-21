@@ -26,7 +26,7 @@ Alternatively, run `npm install -D vite @vitejs/plugin-react`.
 
 ## Create a Vite config
 
-Create a `vite.config.json` file in the root of your project. \
+Create a `vite.config.js` file in the root of your project. \
 In the `plugins` section, add the `react()` plugin to use React.
 
 ```js
