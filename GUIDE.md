@@ -65,7 +65,7 @@ In addition, make the following changes to your `index.html`:
 - Add a script tag to load the React code in the page.
 
 ```html
-<script type="module" src="/src/index.jsx" />
+<script type="module" src="/src/index.jsx"></script>
 ```
 
 ## Rename `.js` files to `.jsx`
